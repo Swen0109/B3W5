@@ -1,0 +1,40 @@
+body{
+	padding:0px;
+	margin:0px;
+	background: #f2f6e9;
+}
+
+.navbar{
+	background: #6ab446;
+}
+
+.nav-link, .navbar-brand{
+	color: #fff;
+	cursor: pointer;
+}
+
+.nav-link{
+	margin-right: 1em !important;
+}
+
+.nav-link:hover{
+	color:;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+.nav-item{
+	margin-left:900px;
+}
+
+.navbar-brand{
+	margin-left:20px;
+	position:absolute;
+	top:33px;
+}
+
+a{
+	text-decoration:none;
+}
